@@ -2,6 +2,8 @@
 Project in course ES 106 (2021), IIT Gandhinagar.
 Group Mate - Aman Chaudhary (IITGN)
 
+<img src="model.jpg" alt="Model" width="500px">
+
 ### 1. CAD Design
 Autodesk Fusion360 is used for CAD Design
 
