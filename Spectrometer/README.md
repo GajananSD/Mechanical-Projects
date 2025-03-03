@@ -9,7 +9,7 @@ Designed CAD models for components in Autodesk Fusion 360 and Autodesk Inventor 
 ### 2. Manufacturing
 Components manufactured using 3D printing and Laser cutting.
 
-<img src="Images/setup.jpg" alt="CAD Model" width="500px">
+<img src="Images/setup.jpg" alt="Model" width="500px">
 
 ### 3. Components
 1) Web camera - (Logitech C270 Digital HD Webcam)
