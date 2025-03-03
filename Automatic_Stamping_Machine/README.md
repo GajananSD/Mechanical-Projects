@@ -4,7 +4,7 @@ Project in course ME 322 (2023), IIT Gandhinagar.
 
 ### 1. CAD design
 Designed CAD model for components in Autodesk Fusion 360
-![](Images/CAD1.jpg)
+<img src="Images/CAD1.jpg" alt="CAD Model" width="500px">
 ### 2. Manufacturing
 Components manufactured using 3D printing and Laser cutting
 ### 3. Electrical Components
