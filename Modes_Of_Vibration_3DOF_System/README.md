@@ -27,11 +27,11 @@ The system exhibits **three fundamental vibration modes**:
    
 2. **Mode 2:** Middle mass moves opposite to outer masses.
    
-   <img src="Images/2.jpg" alt="Mode2" width="500px">
+   <img src="Images/2.jpg" alt="Mode3" width="500px">
    
 3. **Mode 3:** Complex movement with alternating displacements.
    
-<img src="Images/3.jpg" alt="Mode3" width="500px">
+   <img src="Images/3.jpg" alt="Mode2" width="500px">
 
 Understanding these modes is essential in applications like **seismic analysis, vehicle suspension systems, and structural engineering**.
 
