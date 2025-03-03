@@ -3,6 +3,9 @@ Experimented in course ME 351 (2023), IIT Gandhinagar.
 
 ### 1. CAD design
 Designed CAD model for components in Autodesk Fusion 360
+
+<img src="cad.jpg" alt="CAD Model" width="500px">
+
 ### 2. Manufacturing
 Components manufactured using 3D printing and Laser cutting
 ### 3. Electrical Components
